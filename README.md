@@ -49,5 +49,3 @@ Project ini dibuat menggunakan **React Native dengan Expo**.
 | VS Code | Code editor |
 
 ---
-
-# 📂 Struktur Folder
